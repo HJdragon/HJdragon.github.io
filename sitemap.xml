@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2021/12/07/%E8%AF%B4%E6%98%8E/</loc>
+    <loc>http://example.com/2021/12/07/hello-world/</loc>
     
     <lastmod>2021-12-07</lastmod>
     
@@ -70,7 +70,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://example.com/categories/Study/</loc>
     <lastmod>2021-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
